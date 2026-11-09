@@ -1,0 +1,7 @@
+node_modules/
+openrouter.env
+tmp/
+output/
+.nest
+AGENTS.md
+*.env

@@ -1,0 +1,11 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Secrets (never commit API keys)
+.env
+.env.local
+openrouter.env
+
+# Transient generator output
+generated-media/Song/tmp/
